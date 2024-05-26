@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Story App</string>
+    <string name="signup">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="message_welcome_page">Silahkan buat story sesuka anda !!</string>
+    <string name="title_welcome_page">Selamat datang di Dicoding!</string>
+    <string name="title_signup_page">Lengkapi data dirimu di bawah ini ya</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Masukkan dulu datamu ya</string>
+    <string name="title_login_page">Sudah siap untuk upgrade skill?</string>
+    <string name="name">Nama</string>
+    <string name="message_main_page">Selamat Datang di Story App.</string>
+    <string name="greeting">Halo %1$s,</string>
+    <string name="logout">Keluar</string>
+    <string name="home">Home</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_home">Home</string>
+    <string name="story">Story\n</string>
+    <string name="story_page">Story\n</string>
+    <string name="helper_text">Helper text\n</string>
+    <string name="title_story">Story</string>
+    <string name="short_story">"Deskripsi "</string>
+    <string name="add_story">Add Story\n</string>
+    <string name="header">ssssssssssssssssssssssssssssssssssssss</string>
+    <string name="desc">Description\n</string>
+    <string name="camera">Camera\n</string>
+    <string name="gallery">Gallery\n</string>
+    <string name="upload">Upload</string>
+    <string name="empty_image_warning">Silakan masukkan berkas gambar terlebih dahulu.</string>
+    <string name="appwidget_text" translatable="false">EXAMPLE</string>
+    <string name="add_widget" translatable="false">Add widget</string>
+    <string name="app_widget_description" translatable="false">This is an app widget description</string>
+    <string name="location" translatable="false">Location</string>
+    <string name="title_activity_maps" translatable="false">MapsActivity</string>
+    <string name="retry" translatable="false">Coba lagi</string>
+    <string name="switch_story">Ingin membagikan lokasi story?</string>
+    <string name="imagerv">RecyclerView</string>
+</resources>
